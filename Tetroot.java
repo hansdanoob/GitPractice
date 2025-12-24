@@ -6,6 +6,11 @@ public class Tetroot {
         final double ROOT = 3;
         final double PRECISION = 0.000000000000001;
 
+        /*
+        Testing changing something to see how
+        git works.
+        This is a comment
+         */
         double increment = 0.1;
         double potentialBase = increment;
 
